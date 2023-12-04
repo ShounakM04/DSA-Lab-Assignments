@@ -1,0 +1,234 @@
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+1
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+2
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+3
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+4
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+5
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+6
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+7
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+8
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+9
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+10
+Queue is full.
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+3
+
+Queue
+1   2   3   4   5   6   7   8   9
+Front: 0
+Rear: 9
+
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+2
+Dequeued element is: 1
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+2
+Dequeued element is: 2
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+2
+Dequeued element is: 3
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+2
+Dequeued element is: 4
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+2
+Dequeued element is: 5
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+3
+
+Queue
+6   7   8   9
+Front: 5
+Rear: 9
+
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+10
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+11
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+12
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+13
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+14
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+1
+enter element to be enqueued.
+15
+Queue is full.
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+3
+
+Queue
+6   7   8   9   10   11   12   13   14
+Front: 5
+Rear: 4
+
+
+1. Enqueue
+2. Dequeue
+3. Display all elements
+4. Exit
+Enter the operation to be performed
+4
+
+Process returned 0 (0x0)   execution time : 38.783 s
+Press any key to continue.
