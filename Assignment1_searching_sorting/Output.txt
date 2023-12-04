@@ -1,0 +1,295 @@
+//OUTPUT
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+1
+Enter rollnumber: 23323
+Enter Name: Pankaj
+Enter SGPA: 6.9
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+1
+Enter rollnumber: 23324
+Enter Name: Lalit
+Enter SGPA: 9.41
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+1
+Enter rollnumber: 23325
+Enter Name: Shounak
+Enter SGPA: 9.84
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+1
+Enter rollnumber: 23326
+Enter Name: Swaraj
+Enter SGPA: 9.27
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+1
+Enter rollnumber: 23327
+Enter Name: Shravani
+Enter SGPA: 9
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+2
+Rollnumber    Name        SGPA
+_______________________________
+
+23323         Pankaj       6.9
+23324         Lalit       9.41
+23325         Shounak       9.84
+23326         Swaraj       9.27
+23327         Shravani       9
+
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+3
+Enter the index of student: 
+3
+record 3
+23325       Shounak       9.84
+
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+5
+Total time required = 0.00307 milliseconds
+Sorted all record by names
+Shift count: 2
+iteration count: 4
+comparison count: 2
+
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+2
+Rollnumber    Name        SGPA
+_______________________________
+
+23324         Lalit       9.41
+23323         Pankaj       6.9
+23325         Shounak       9.84
+23327         Shravani       9
+23326         Swaraj       9.27
+
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+7
+Total time required = 0.00146 milliseconds
+Sorted all records by sgpa
+Swap count: 6
+iteration count: 8
+comparison count: 12
+
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+2
+Rollnumber    Name        SGPA
+_______________________________
+
+23325         Shounak       9.84
+23324         Lalit       9.41
+23326         Swaraj       9.27
+23327         Shravani       9
+23323         Pankaj       6.9
+
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+4
+Sorted all records by roll numbers.Total time required = 0.00082 milliseconds
+
+Swap count: 5
+iteration count: 4
+comparison count: 10
+
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+2
+Rollnumber    Name        SGPA
+_______________________________
+
+23323         Pankaj       6.9
+23324         Lalit       9.41
+23325         Shounak       9.84
+23326         Swaraj       9.27
+23327         Shravani       9
+
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+6
+Enter the name to be searched: 
+Shounak
+Record found at location: 3
+
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+8
+Enter the sgpa to be searched: 9.27
+Record found at record number 4
+
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+6
+Enter the name to be searched: 
+abc
+Name not found in the records.
+
+Enter the operation: 
+1. Add student record 
+2. Display all student records 
+3. Display student record 
+4. Sort by roll numbers
+5. Sort by Names
+6. Search by Names
+7. Sort by SGPA
+8. Search SGPA
+9. Exit
+
+8
+Enter the sgpa to be searched: 7
+Record not found.
+
+9
+
